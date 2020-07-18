@@ -13,6 +13,7 @@ public class Table {
 		 s = i * n ;
 		 
 	System.out.println(n+ " * " +i+ " = " +s);
+	System.out.println("Print");
 		
 	}
 		
